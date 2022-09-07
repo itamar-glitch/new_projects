@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="Title">"Article Title"</string>
+    <string name="article_title">Alice in Wonderland</string>
+    <string name="article_subtitle">"\n\n Alice in Wonderland (2010 film)"</string>
+    <string name="article_text">"\n\n<b>Alice in Wonderland </b>is a 2010 American dark fantasy film directed by Tim Burton from a screenplay written by Linda Woolverton and produced by Walt Disney Pictures. The film stars Mia Wasikowska in the title role, with Johnny Depp, Anne Hathaway, Helena Bonham Carter, Crispin Glover, and Matt Lucas, while featuring the voices of Alan Rickman, Stephen Fry, Michael Sheen, and Timothy Spall. A live-action adaptation and re-imagining of Lewis Carrolls works, the film follows Alice Kingsleigh, a nineteen-year-old who accidentally falls down a rabbit hole, returns to Underland and alongside the Mad Hatter,\n  helps restore the White Queen to her throne by fighting against the Red Queen and her Jabberwocky, a dragon-like creature that terrorizes Underlands inhabitants.\n
+
+<b>Alice in Wonderland</b> came under development in December 2007, when Burton was asked to direct two 3D films for Disney, including the remake of Frankenweenie.\n Production began in September 2008 and concluded within three months, and was shot in the United Kingdom and the United States.\n It was followed by an extensive pre-production and visual effects process, where filming included live-action and motion capture sequences. \n The film premiered in London at the Odeon Leicester Square on February 25, 2010, and was released in the United Kingdom and the United States through the Disney Digital 3D, RealD 3D, and IMAX 3D formats as well as in conventional theaters on March 5, 2010.\n
+
+Alice in Wonderland received mixed reviews upon release; although praised for its visual style, costumes, musical score, performances and special effects, the film was criticized for its lack of narrative coherence.\n The film generated over $1.025 billion in ticket sales and became the fifth highest-grossing film of all time during its theatrical run, and it is also the second-highest-grossing film of 2010.[6] It received three nominations at the 68th Golden Globe Awards, including Best Motion Picture – Musical or Comedy. At the 83rd Academy Awards, it won Best Art Direction and Best Costume Design, and was also nominated for Best Visual Effects.\n
+
+While not the first such film in its genre, Alice in Wonderland is credited with starting a trend of live-action fairy tale and fantasy films being green-lit, particularly from Walt Disney Studios.[7] A sequel, titled Alice Through the Looking Glass, was released on May 27, 2016.\n
+   \n\n for more information go to www.google.com"\n\n </string>
+    <string name="add_comment">Add Comment</string>
+</resources>
